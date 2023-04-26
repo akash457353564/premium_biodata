@@ -1,5 +1,5 @@
 {
-  "name": "premium_biodata",
+  "name": "@no_code_js/premium_biodata",
   "version": "1.0.0",
   "description": "JS code used on Premium Biodata page",
   "main": "script.js",
